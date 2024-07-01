@@ -1,0 +1,26 @@
+* {
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-size: 20px;
+}
+
+div {
+    background-color: rgb(231, 223, 148);
+    text-align: center;
+    
+}
+
+
+
+.list {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
+
+.images {
+    width: 400px;
+    height: 400px;
+}
